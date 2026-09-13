@@ -1,17 +1,3 @@
-<!--
-  SETUP
-  This file goes in a repo named exactly "nehalipp/nehalipp".
-
-  Assets (place in an "assets" folder in the same repo):
-    assets/stat-years.svg
-    assets/stat-hmis.svg
-    assets/stat-pricing.svg
-    assets/stat-migration.svg
-    assets/trend-hero.svg
-    assets/tech-frequency.svg
-    assets/Nehali_Parulekar_Resume.pdf
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,35:7C3AED,70:06B6D4,100:F97316&height=200&section=header&text=Nehali%20Parulekar&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Analyst&descAlignY=56&descSize=18" width="100%"/>
