@@ -9,6 +9,7 @@
     assets/stat-migration.svg
     assets/trend-hero.svg
     assets/tech-frequency.svg
+    assets/Nehali_Parulekar_Resume.pdf
 -->
 
 <div align="center">
@@ -22,7 +23,7 @@
 <br/><br/>
 
 <a href="mailto:nehaliparulekar0395@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-C2410C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nehalip/">
@@ -37,9 +38,13 @@
 <img src="https://img.shields.io/badge/TABLEAU%20PUBLIC-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
 </a>
 
+<a href="assets/Nehali_Parulekar_Resume.pdf">
+<img src="https://img.shields.io/badge/DOWNLOAD%20RESUME-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download Resume"/>
+</a>
+
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nehalipp&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=nehalipp&label=PROFILE%20VIEWS&color=0E7490&style=flat-square"/>
 
 <br/><br/>
 
@@ -79,7 +84,9 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 
 <div align="center">
 
-<img src="assets/trend-hero.svg" width="100%" alt="Analytics workflow from raw data to decision-ready insights"/>
+<img src="assets/trend-hero.svg" width="100%" alt="A decorative upward-trending line"/>
+<br/>
+<sub>A visual note, not a literal metric.</sub>
 
 </div>
 
@@ -119,33 +126,31 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 
 ## 📊 Business Intelligence
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DAX-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20Query-06B6D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSRS-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tableau%20Server-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DAX-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20Query-0E7490?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSRS-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tableau%20Server-16A34A?style=for-the-badge"/>
 
 ## 🗄️ Databases & SQL
 
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Teradata-F97316?style=for-the-badge&logo=teradata&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Teradata-C2410C?style=for-the-badge&logo=teradata&logoColor=FFFFFF"/>
 
 ## 🐍 Analytics & Data Engineering
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NumPy-06B6D4?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/ETL-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Quality-16A34A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Warehousing-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NumPy-0E7490?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/ETL-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Quality-16A34A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Warehousing-C2410C?style=for-the-badge"/>
 
 ---
 
-# 📊 Tool Frequency
+# 📊 Top 5 Tools by Frequency
 
-<sub>Technology appearances across my professional roles and portfolio projects.</sub>
+<sub>Counted across all 6 roles and 3 projects below. SQL, Tableau, Python, and Excel are clear leaders; Power BI ties with PostgreSQL, Oracle, and Teradata at 2 mentions each — shown here since it lines up with the BI-analyst roles I'm targeting.</sub>
 
 <br/><br/>
 
 <div align="center">
 
-<img src="assets/tech-frequency.svg" width="850" alt="Technology frequency across roles and projects"/>
+<img src="assets/tech-frequency.svg" width="850" alt="Top 5 tools by frequency: SQL 7, Tableau 6, Python 4, Excel 3, Power BI 2"/>
 
 </div>
 
 <br/>
-
-> **Why this matters:** My strongest recurring tools are **Tableau, SQL, Python, Power BI, and database technologies**. These are the tools I use to move from raw data to analysis and decision-ready reporting.
 
 ---
 
@@ -158,11 +163,7 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 **Transportation & Supply Chain Services · Mumbai, India**
 **Feb 2025 – Nov 2025**
 
-* Identified **$65K+ in pricing discrepancies** through SQL analysis and Power BI KPI dashboards, partnering with Sales to resolve account-level issues.
-* Built Power BI dashboards and semantic models using **DAX and Row-Level Security (RLS)** for team-level and executive reporting.
-* Built Power BI Dataflows integrating **Oracle, Teradata, and Excel** data with scheduled refreshes through Power BI Service.
-* Gathered reporting requirements from U.S. stakeholders and collaborated with a four-member team to develop and validate reporting solutions.
-* Reviewed system-generated Tasks and Sales-submitted Cases, correcting account-to-parent hierarchy assignments to support accurate customer pricing agreements.
+Used SQL and Power BI to identify $65K+ in pricing discrepancies, built KPI dashboards with DAX and Row-Level Security, and supported recurring reporting for U.S. stakeholders.
 
 **SQL** · **Power BI** · **DAX** · **RLS** · **Oracle** · **Teradata**
 
@@ -173,7 +174,7 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 **Wealth Advisory Services · Mumbai, India**
 **Jun 2024 – Jan 2025**
 
-* Cleaned and analyzed business and financial data using **SQL and Excel** to support investment research and wealth advisory analysis.
+Cleaned and analyzed business and financial data in SQL and Excel to support investment research and wealth advisory analysis.
 
 **SQL** · **Excel** · **Investment Research**
 
@@ -183,10 +184,7 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 
 **Hartford, CT · Feb 2023 – Mar 2024**
 
-* Built interactive **Tableau dashboards** using SQL Server and Excel data to analyze housing outcomes, trends, and operational performance.
-* Identified and resolved duplicate, incomplete, and inconsistent records across **2M+ HMIS records**, improving data quality for downstream reporting.
-* Automated Tableau dashboard refreshes, reducing **manual reporting effort by 70%** and enabling independent multi-year trend analysis.
-* Completed **150+ ad hoc SQL requests**, delivering validated datasets and analysis using SQL and Excel.
+Built Tableau dashboards across 2M+ HMIS records, improved data quality, and cut manual reporting effort by 70%.
 
 **Tableau** · **SQL Server** · **Excel** · **SQL** · **Data Quality** · **HMIS**
 
@@ -201,9 +199,7 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 
 **Newark, NJ · Mar 2022 – Dec 2022**
 
-* Cleaned and validated Excel-based student data using **Python** and developed Tableau dashboards covering enrollment, coursework progress, and demographic trends.
-* Published and maintained Tableau dashboards on **Tableau Server** to support recurring academic reporting.
-* Gathered reporting requirements from the Dean, translated academic needs into Tableau views, and presented findings during weekly stakeholder reviews.
+Cleaned and validated student data in Python and built Tableau dashboards for academic reporting and stakeholder review.
 
 **Python** · **Tableau** · **Tableau Server** · **Data Validation**
 
@@ -213,8 +209,7 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 
 **New York City, NY · May 2022 – Aug 2022**
 
-* Built a consolidated Tableau dashboard integrating **Oracle, SQL Server, and Excel** data across seven business units for customer attrition and data-volume analysis.
-* Analyzed customer behavior, data volumes, and attrition patterns to identify trends and actionable insights for senior stakeholders.
+Built a consolidated Tableau dashboard across 7 business units for customer attrition and data-volume analysis.
 
 **Tableau** · **Oracle** · **SQL Server** · **Excel** · **Customer Analytics**
 
@@ -224,10 +219,7 @@ I work primarily with **SQL, Power BI, Tableau, Excel, PostgreSQL, and Python**,
 
 **Mumbai, India · Aug 2019 – Dec 2020**
 
-* Built ETL pipelines using **Informatica PowerCenter** and validated target data for downstream application use.
-* Performed SQL-based data testing and validation using **Hive and Teradata** to identify discrepancies and verify source-to-target accuracy.
-* Supported a **500TB+ Teradata-to-Hive migration** by reconciling source and target datasets and investigating data discrepancies.
-* Developed and executed test scripts to validate application functionality, document defects, and verify fixes with developers.
+Built ETL pipelines and supported a 500TB+ Teradata-to-Hive migration through SQL-based testing, reconciliation, and data validation.
 
 **ETL** · **Informatica PowerCenter** · **Teradata** · **Hive** · **SQL**
 
@@ -281,11 +273,11 @@ A financial analytics project combining metals prices, volatility indicators, an
 
 <img src="https://img.shields.io/badge/01%20UNDERSTAND-2563EB?style=for-the-badge"/>
 &nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/02%20VALIDATE-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02%20VALIDATE-0E7490?style=for-the-badge"/>
 &nbsp;→&nbsp;
 <img src="https://img.shields.io/badge/03%20ANALYZE-7C3AED?style=for-the-badge"/>
 &nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/04%20VISUALIZE-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04%20VISUALIZE-C2410C?style=for-the-badge"/>
 &nbsp;→&nbsp;
 <img src="https://img.shields.io/badge/05%20ACT-16A34A?style=for-the-badge"/>
 
@@ -304,25 +296,22 @@ A financial analytics project combining metals prices, volatility indicators, an
 <tr>
 <td>
 
-### 🎓 M.S. Data Science
-
-**New Jersey Institute of Technology**
-Newark, New Jersey
+**M.S. in Data Science (2021–2022)** <br/>
+New Jersey Institute of Technology<br/>
+Newark, NJ, USA
 
 </td>
 <td>
 
-### 🎓 M.Sc. Computer Applications (2016–2019)
-
-**University of Mumbai**
+**M.Sc. in Computer Applications (2016–2019)** <br/>
+University of Mumbai<br/>
 Mumbai, India
 
 </td>
 <td>
 
-### 🎓 B.Sc. Information Technology (2013–2016)
-
-**University of Mumbai**
+**B.Sc. in Information Technology (2013–2016)** <br/>
+University of Mumbai<br/>
 Mumbai, India
 
 </td>
@@ -404,7 +393,7 @@ Conducted a survey across women from different age groups and social backgrounds
 <br/>
 
 <a href="mailto:nehaliparulekar0395@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-C2410C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nehalip/">
@@ -417,6 +406,10 @@ Conducted a survey across women from different age groups and social backgrounds
 
 <a href="https://public.tableau.com/app/profile/nehalip">
 <img src="https://img.shields.io/badge/TABLEAU%20PUBLIC-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
+<a href="assets/Nehali_Parulekar_Resume.pdf">
+<img src="https://img.shields.io/badge/DOWNLOAD%20RESUME-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
 
 </div>
